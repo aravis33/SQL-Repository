@@ -12,7 +12,7 @@ Note: This is a fabricated company, data set, and project brief made for practic
 * Do sales figures vary between geographic regions?
 
 ### Links to Final Results:
-Tableau Map Chart link: https://public.tableau.com/shared/KWN3MQKB7?:display_count=n&:origin=viz_share_link 
+Tableau Map Chart link: [https://public.tableau.com/shared/KWN3MQKB7?:display_count=n&:origin=viz_share_link ](https://public.tableau.com/views/Rockbuster_16607643336980/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Rockbuster Data Findings Presentation: [Rockbuster-Data-Findings.pptx](https://github.com/aravis33/SQL-Repository/files/9538063/Rockbuster-Data-Findings.pptx)
 
